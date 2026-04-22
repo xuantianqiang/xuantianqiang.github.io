@@ -1,7 +1,7 @@
 ---
 layout: 	post
 title: 		"通信协议"
-subtitle:	"Requests & Re & Scrapy"
+subtitle:	"UART & RS232 & RS485 &I2C &SPI"
 date: 		2026-04-22 21:43:00
 author: 	"玄天强"
 header-img:	"img/mn-bg-xtq.jpg"
@@ -13,6 +13,7 @@ tags:
 # 一、UART
 ## 帧格式
 1. 空闲位+起始位(1bit)+数据位(5-8bit)+校验位(1bit)+停止位(1-2bit)+空闲位
+
 ## 收发过程
 1. 发送:先写到fifo,再通过移位器输出
 2. 接收:先通过移位器接收，再写到fifo
