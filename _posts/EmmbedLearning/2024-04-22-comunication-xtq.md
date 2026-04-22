@@ -7,7 +7,7 @@ author: 	"玄天强"
 header-img:	"img/mn-bg-xtq.jpg"
 catalog: true
 tags:
-    - python
+    - 嵌入式
 ---
 
 # 一、UART
