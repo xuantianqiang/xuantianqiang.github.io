@@ -2,7 +2,7 @@
 layout: 	post
 title: 		"通信协议"
 subtitle:	"UART & RS232 & RS485 &I2C &SPI"
-date: 		2026-04-22 21:43:00
+date: 		2024-04-22 14:43:00
 author: 	"玄天强"
 header-img:	"img/mn-bg-xtq.jpg"
 catalog: true
